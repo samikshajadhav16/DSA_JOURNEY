@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
