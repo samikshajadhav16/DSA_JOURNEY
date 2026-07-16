@@ -130,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0176-second-highest-salary) |
+| [1527-patients-with-a-condition](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
