@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
