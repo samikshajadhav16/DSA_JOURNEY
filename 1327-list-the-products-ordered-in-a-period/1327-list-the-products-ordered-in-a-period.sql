@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select product_name,sum(unit) as unit from Products JOIN Orders using(product_id) where order_date>='2020-02-01' and order_date<='2020-02-29' group by(product_id) having unit>=100;
