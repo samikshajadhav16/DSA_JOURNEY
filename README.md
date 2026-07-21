@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0176-second-highest-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1045-customers-who-bought-all-products) |
+| [1484-group-sold-products-by-the-date](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1667-fix-names-in-a-table) |
