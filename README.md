@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 ## Sorting
 |  |
 | ------- |
@@ -183,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
