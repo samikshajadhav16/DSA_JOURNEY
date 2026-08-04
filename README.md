@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 ## Sorting
 |  |
@@ -215,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
