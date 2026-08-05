@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
