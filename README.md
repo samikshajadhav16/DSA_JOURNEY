@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
