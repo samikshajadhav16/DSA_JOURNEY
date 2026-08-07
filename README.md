@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
