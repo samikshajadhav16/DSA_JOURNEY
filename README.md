@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0930-binary-subarrays-with-sum) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 ## Design
 |  |
 | ------- |
@@ -249,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -263,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
