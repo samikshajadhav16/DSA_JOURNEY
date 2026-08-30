@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
