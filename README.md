@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -286,4 +287,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
