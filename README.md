@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0402-remove-k-digits) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0547-number-of-provinces) |
@@ -312,12 +314,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
