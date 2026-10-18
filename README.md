@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3903-smallest-stable-index-i) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Design
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Depth-First Search
 |  |
 | ------- |
