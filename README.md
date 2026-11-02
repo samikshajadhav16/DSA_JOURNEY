@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
