@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
@@ -356,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
