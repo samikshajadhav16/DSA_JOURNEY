@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Depth-First Search
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
