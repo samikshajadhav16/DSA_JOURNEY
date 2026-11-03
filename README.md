@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
