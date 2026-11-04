@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
+| [0468-validate-ip-address](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0468-validate-ip-address) |
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
