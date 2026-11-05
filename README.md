@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
