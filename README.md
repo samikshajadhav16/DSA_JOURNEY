@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
