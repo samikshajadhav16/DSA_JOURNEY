@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0155-min-stack) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
