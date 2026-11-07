@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0860-lemonade-change) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
 | ------- |
