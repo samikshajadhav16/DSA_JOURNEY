@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
