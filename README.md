@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/0055-jump-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samikshajadhav16/DSA_JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
